@@ -8,7 +8,7 @@ GitHubは、世界で最も先進的な技術のいくつかを構築するた�
 
 - **対象者**: 新しい開発者、GitHub初心者、学生
 - **学べること**: リポジトリ、ブランチ、コミット、プルリクエストについて紹介します。
-- **作成するもの**: [プロフィールREADME](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)として使える短いMarkdownファイルを作成します。
+- **作成するもの**: [プロフィールREADME](https://docs.github.chttps://github.com/sdlc-dev-001/skills-introduction-to-github/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)として使える短いMarkdownファイルを作成します。
 - **前提条件**: なし。この演習はGitHub初日の方にも最適です。
 - **所要時間**: 1時間以内で完了します。
 
@@ -39,7 +39,7 @@ GitHubは、世界で最も先進的な技術のいくつかを構築するた�
 
 4. **Start Exercise** をクリックしてください。ステップごとの指示に従い、進捗に応じてフィードバックが表示されます。
 
-   <a id="start-exercise" href="https://github.com/yutaka-art/skills-introduction-to-github2/issues/1">
+   <a id="start-exercise" href="https://github.com/sdlc-dev-001/skills-introduction-to-github/issues/1" href="https://github.com/yutaka-art/skills-introduction-to-github2/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 
